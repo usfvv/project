@@ -1,1 +1,1 @@
-# Tean Admin
+# Team Admin
